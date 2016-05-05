@@ -5,10 +5,11 @@ Materiały stanowią rozszerzenie i uzupełnienie [FAQ ze strony szczepienia.org
 [dokumentów do pobrania w sprawie szczepień ze strony pisma.szczepienia.org.pl](http://www.pisma.szczepienia.org.pl/) w zakresie postępowania administracyjnego i niuansów związanych z korespondencją z urzędami.
 
 ##Jaka jest aktualna zawartość repozytorium?
-  1. zbiór przydatnych [aktów prawnych](https://github.com/szanitani/szczepienia/tree/master/Przepisy/Zrodla%20prawa)
-  2. argumenty merytoryczne i prawne, do wykorzystania [bezpośrednio w pismach do Organów](https://github.com/szanitani/szczepienia/tree/master/Argumenty) w postępowaniach 
-  3. [sugestie dotyczące postępowania](https://github.com/szanitani/szczepienia/blob/master/Szczepienia%20Postepowanie%202.md) dla bardziej obeznanych w przepisach rodziców
-  4. [Ścieżki alternatywne](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne) w postępowaniu, do zastosowania niezależnie od ścieżki zalecanej lub w szczególnych sytuacjach.
+  1. Zbiór przydatnych [przepisów i orzeczeń sądów](https://github.com/szanitani/szczepienia/tree/master/Przepisy).
+  2. Argumenty merytoryczne i prawne, do wykorzystania [bezpośrednio w pismach do Organów](https://github.com/szanitani/szczepienia/tree/master/Argumenty) w postępowaniach.
+  3. [Sugestie dotyczące postępowania](https://github.com/szanitani/szczepienia/blob/master/Szczepienia%20Postepowanie%202.md) dla bardziej obeznanych w przepisach rodziców.
+  4. [Ścieżki alternatywne](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne) w postępowaniu, czyli gotowe **wzory dokumentów** do zastosowania niezależnie od ścieżki zalecanej lub w szczególnych sytuacjach.
+  5. Aplikacja ["Sprawdź co naprawdę wiesz o szczepieniach"](http://szanitani.github.io/szczepienia/cowiesz.html). Kod źródłowy znajduje się innej gałęzi tego repozytorium. Potrzebna współpraca!
 
 ##Jak zgłaszać uzupełnienia/poprawki?
 Proszę korzystać z tego co oferuje GitHub czyli właśnie zgłaszanie poprawek, komentarze do treści. Probujemy jakoś zorganizować pracę nad repozytorium i na teraz sami się uczymy współpracy.
@@ -21,6 +22,8 @@ Oczywiście. Dla Windows zalecane narzędzia są tutaj:
   1. Edytor Markdown - [MarkdownPad](http://markdownpad.com/download.html)
   2. [mSysGit](http://msysgit.github.io/)
   3. [TortoiseGit](https://code.google.com/p/tortoisegit/wiki/Download?tm=2)
+  4. [Rozszerzenie do Chrome - Markdown Editor](https://chrome.google.com/webstore/detail/markdown-editor/ekdcaddpmiodcipjfmffhhefijpdckaf?hl=pl)
+  5. Zintegrowany edytor i Git, darmowe, działa na wielu platformach - najlepsze - [Microsoft Visual Studio Code](https://code.visualstudio.com/)
 
 ##A jeśli będę chciał zmienić coś sam w treści dokumentów?
 Do tego właśnie służy GitHub. Tworzysz wtedy kopie tego repozytorium (*fork*), wprowadzasz zmiany i wysyłasz tzw. *pull request* do naszego repozytorium głównego. Jeśli chcesz się naprawdę zaangażować i pomóc w tworzeniu repozytorium, prawa do zapisu również będą przydzielane.
