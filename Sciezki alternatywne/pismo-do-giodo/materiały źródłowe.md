@@ -1,6 +1,6 @@
 _Zestawienie zawiera wszelkie materiały, w szczególności akty prawne, związane z tematyką ochrony danych osobowych, które wykorzystano w [analizie.](https://github.com/lesmic/szczepienia/blob/master/Sciezki%20alternatywne/pismo-do-giodo/analiza%20stanu%20prawnego.md)_ 
 ## Ustawy  
-1. Konstytucja Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. uchwalona przez Zgromadzenie Narodowe w dniu 2 kwietnia 1997 r., przyjęta przez Naród w referendum konstytucyjnym w dniu 25 maja 1997 r., podpisana przez Prezydenta Rzeczypospolitej Polskiej w dniu 16 lipca 1997 r.
+1. Konstytucja Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r.
 1. Ustawa z dnia 29 sierpnia 1997 r. o ochronie danych osobowych  
 1. Ustawa z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi 
 1. Ustawa z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta
