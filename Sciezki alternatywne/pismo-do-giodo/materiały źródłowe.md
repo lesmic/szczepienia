@@ -9,4 +9,7 @@ _Zestawienie zawiera wszelkie materiały, w szczególności akty prawne, związa
 
 ## Rozporządzenia
 1. Rozporządzenie Ministra Zdrowia z dnia 18 sierpnia 2011 r. w sprawie obowiązkowych szczepień ochronnych
-1. Rozporządzenie Ministra Zdrowia z dnia 21 grudnia 2010 r. w sprawie rodzajów i zakresu dokumentacji medycznej oraz sposobu jej przetwarzania
+1. Rozporządzenie Ministra Zdrowia z dnia 21 grudnia 2010 r. w sprawie rodzajów i zakresu dokumentacji medycznej oraz sposobu jej przetwarzania  
+ 
+## Prawo unijne i międzynarodowe
+1. Dyrektywa 95/46/WE Parlamentu Europejskiego i Rady z dnia 24 października 1995 r. w sprawie ochrony osób fizycznych w zakresie przetwarzania danych osobowych i swobodnego przepływu tych danych
