@@ -13,3 +13,4 @@ _Zestawienie zawiera wszelkie materiały, w szczególności akty prawne, związa
  
 ## Prawo unijne i międzynarodowe
 1. Dyrektywa 95/46/WE Parlamentu Europejskiego i Rady z dnia 24 października 1995 r. w sprawie ochrony osób fizycznych w zakresie przetwarzania danych osobowych i swobodnego przepływu tych danych
+1. Karta Praw Podstawowych Unii Europejskiej (2010/C 83/02)
